@@ -27,6 +27,11 @@ Este acervo inclui:
 
 ---
 
+## 👨‍💻 Autor
+- `Desenvolvido por K4BOTELHO`
+
+---
+
 ## ✉️ Solicite Novas Imagens
 
 Se você precisa de alguma imagem específica (como um logo estilizado de uma linguagem, framework, ferramenta ou conceito técnico), abra uma issue ou entre em contato!
